@@ -1,3 +1,8 @@
+.DS_Store
+test_file_800
+test_file_1kb
+test_file_15kb
+
 *.gem
 *.rbc
 /.config
